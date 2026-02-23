@@ -51,6 +51,7 @@ AdvancedScientificCalculator/
 └── AdvancedScientificCalculator.jar
 
 📸 Application Preview
+
 <img width="544" height="739" alt="Screenshot 2026-02-23 124605" src="https://github.com/user-attachments/assets/896d21fb-6193-47bf-ba64-173b29e01813" />
 
 
